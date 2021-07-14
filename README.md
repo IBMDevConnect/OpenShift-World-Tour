@@ -11,7 +11,7 @@ The course begins with pre-reads & then followed by a live hands-on lab. It furt
 
 # Topics
 
-1. [Pre-requisite](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-Learning-Journey#1-pre-requisite)
+1. [Pre-requisite](https://github.com/IBMDevConnect/OpenShift-World-Tour/#1-pre-requisite)
 
 2. [90 mins live hands-on lab](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-Learning-Journey#2-90-mins-live-hands-on-lab)
 3. [Week 1: Red Hat OpenShift on IBM Cloud - Part 1](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs#week-1---red-hat-openshift-on-ibm-cloud---part-1)
