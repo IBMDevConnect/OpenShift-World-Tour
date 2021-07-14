@@ -12,14 +12,22 @@ The course begins with pre-reads & then followed by a live hands-on lab. It furt
 # Topics
 
 1. [Pre-requisite](https://github.com/IBMDevConnect/OpenShift-World-Tour/#1-pre-requisite)
-
-2. [90 mins live hands-on lab](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-Learning-Journey#2-90-mins-live-hands-on-lab)
-3. [Week 1: Red Hat OpenShift on IBM Cloud - Part 1](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs#week-1---red-hat-openshift-on-ibm-cloud---part-1)
-4. [Week 2: Red Hat OpenShift on IBM Cloud - Part 2](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs#week-2---red-hat-openshift-on-ibm-cloud---part-2)
-5. [Week 3: IBM Log Analysis with LogDNA and OpenShift](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs#week-3---ibm-log-analysis-with-logdna-and-openshift)
-6. [Week 4: IBM Cloud Monitoring with Sysdig and OpenShift](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs#week-4---ibm-cloud-monitoring-with-sysdig-and-openshift)
-7. [Digital Badge & Certification : Building Cloud Native and MultiCloud Applications](https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applications)
+2. [Week 1: Red Hat OpenShift on IBM Cloud - Part 1](https://github.com/IBMDevConnect/OpenShift-World-Tour#week-1---red-hat-openshift-on-ibm-cloud---part-1)
+3. [Week 2: Red Hat OpenShift on IBM Cloud - Part 2](https://github.com/IBMDevConnect/OpenShift-World-Tour#week-2---red-hat-openshift-on-ibm-cloud---part-2)
+4. [Week 3: IBM Log Analysis with LogDNA and OpenShift](https://github.com/IBMDevConnect/OpenShift-World-Tour#week-3---ibm-log-analysis-with-logdna-and-openshift)
+5. [Week 4: IBM Cloud Monitoring with Sysdig and OpenShift](https://github.com/IBMDevConnect/OpenShift-World-Tour#week-4---ibm-cloud-monitoring-with-sysdig-and-openshift)
+6. [Digital Badge & Certification : Building Cloud Native and MultiCloud Applications](https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applications)
 
 ---
 ## Pre-requisite
+Note: Please complete the below prequisites `before` the hands - on lab session.
+Create an [IBM Cloud](https://cloud.ibm.com/registration) account.
+
+## [Week 1: Red Hat OpenShift on IBM Cloud - Part 1]
+
+## [Week 2: Red Hat OpenShift on IBM Cloud - Part 2]
+
+## [Week 3: IBM Log Analysis with LogDNA and OpenShift]
+
+## [Week 4: IBM Cloud Monitoring with Sysdig and OpenShift]
 
