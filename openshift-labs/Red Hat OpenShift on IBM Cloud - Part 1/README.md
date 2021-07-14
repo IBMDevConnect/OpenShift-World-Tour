@@ -19,15 +19,11 @@ Check with your lab instructor to provide you a work environment.
 
 ## 2. Logging in with the Web Console
 
-Access the OpeShift Web Console by clicking here .
-![Click on web console](images/Picture 1.png)
+Access the OpeShift Web Console by clicking here.
+![Web](images/Picture 1.png)
 
 This will open the web console on your browser.
-You should see a Red Hat OpenShift Container Platform window with Username and Password forms as shown below:
-
-![OCP login page](images/pic1.png)
-
-Use the crededntials provided by the workshop trainer to login here.
+Check with your lab instructor to provide you a work environment.
 
 ## 3. Creating a Project
 
