@@ -20,7 +20,7 @@ Check with your lab instructor to provide you a work environment.
 ## 2. Logging in with the Web Console
 
 Access the OpeShift Web Console by clicking here.
-![Project creation](images/Picture 1.png)
+![OCP login page](images/pic1.png)
 
 This will open the web console on your browser.
 Check with your lab instructor to provide you a work environment.
