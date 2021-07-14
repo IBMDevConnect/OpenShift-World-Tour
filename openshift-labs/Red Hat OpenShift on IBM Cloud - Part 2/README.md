@@ -11,6 +11,7 @@ In order to use S2I, builder images are needed. These builder images create the 
 ## Getting started on Openshift Platform
 
 1) Click on https://learn.openshift.com/introduction/deploying-python/
+
 The user will be navigated to Interactive Learning Portal.
 
 2) Click on the **Deploying Applications From Source** Start Scenario button.
