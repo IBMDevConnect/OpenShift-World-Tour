@@ -4,28 +4,25 @@
 Learn how to deploy an application (the ParksMap front end) from a pre-existing container image along with learn how to deploy an application direct from source code hosted in a remote Git repository.
 This will be done using the Source-to-Image (S2I) tool.
 
-## Pre-requisites
-
-* [IBM Cloud account](https://cloud.ibm.com/)
-* [OpenShift CLI](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift-cli)
-
 ## Steps
 
 1. Logging into an evironment provided by your trainer, so that you can avail an OpenShift cluster.
 2. Logging in with the Web Console
 3. Creating a Project
-4.  Deploying Your First Image
+4. Deploying Your First Image
 5. Scaling Your Application
 6. Routing HTTP Requests
-7. Building From Source Code
 
 ## 1. Logging into an evironment provided by your trainer, so that you can avail an OpenShift cluster.
 
-Log in to the [Interactive Learning Portal](https://learn.openshift.com/introduction/getting-started/)
+Check with your lab instructor to provide you a work environment.
 
 ## 2. Logging in with the Web Console
 
-To begin, click on the Console tab on your screen. This will open the web console on your browser.
+Access the OpeShift Web Console by clicking here .
+![Click on web console](images/Picture 1.png)
+
+This will open the web console on your browser.
 You should see a Red Hat OpenShift Container Platform window with Username and Password forms as shown below:
 
 ![OCP login page](images/pic1.png)
