@@ -28,10 +28,11 @@ In this session you will learn how to use OpenShift Pipelines to automate the de
 ### Steps to follow-
 
 1) Click on https://learn.openshift.com/middleware/pipelines/
+
 The user will be navigated to Interactive Learning Portal.
 
 2) Click on the **Deploying Applications From Source** Start Scenario button.
-![Welcome](images/pic1.png)
+![Welcome](images/pic3.png)
 
 3) Follow the steps from **Topic 1 - Install the Pipelines Operator** to **Topic 7 - Verify Deployment** .
 
