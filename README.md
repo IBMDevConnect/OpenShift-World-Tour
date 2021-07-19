@@ -1,6 +1,5 @@
 # OpenShift-World-Tour
 
-# Cloud Native Learning Journey
 This is a repository with course content that gets you started with Cloud Native ramping up to containerization
 
 ![logo](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs/blob/main/img/bsok-1.png)
