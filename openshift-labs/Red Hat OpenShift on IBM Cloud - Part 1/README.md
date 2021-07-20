@@ -31,20 +31,27 @@ To group your application, we use **projects**. The reason for having a project 
 
 More technically, it's a visualization of the Kubernetes namespace based on the developer access controls.
 
-Click the blue Create Project button.
+#### To create a project 
+
+Click the blue Create Project button in the Administrator view -> Home -> Projects.
+
 You should now see a page for creating your first project in the web console. 
-Fill in the Name field as 'myproject'
+
+Fill in the Name field as *myproject
 
 ![Project creation](images/pic2.png)
  
-The rest of the form is optional and up to you to fill in or ignore. Click Create to continue.
+The rest of the form is optional and up to you to fill in or ignore. 
+
+Click *Create* to continue.
 
 After your project is created, you will see some basic information about your project.
 
 ## 4.  Deploying Your First Image
 
 Notice the navigation menu on the left. When you first log in, you'll typically be in the Administrator Perspective.
-a) If you are not in the Administrator Perspective, click the perspective toggle and switch from Developer to Administrator.
+
+#### a) If you are not in the *Administrator* Perspective, click the perspective toggle and switch from Developer to Administrator.
 
 ![Developer view](images/pic3.png)
  
@@ -57,16 +64,27 @@ b) Choose the Container Image option.
 
 ![Container image](images/pic4.png)
 
-c) Within the Deploy Image page, enter the following for Image name from external registry: 'docker.io/openshiftroadshow/parksmap-katacoda:1.2.0'
+c) Within the Deploy Image page, enter the following for Image name from external registry: *docker.io/openshiftroadshow/parksmap-katacoda:1.2.0*
+
 Press tab or click outside of the text box to validate the image:
 
 ![registry](images/pic5.png)
 
-The Application Name field will be populated with **'parksmap-katacoda-app'** and the Name field with **'parksmap-katacoda'**. This name will be what is used for your application and the various components created that relate to it. Leave this as the generated value as steps given in the upcoming sections will use this name.
+The Application Name field will be populated with **'parksmap-katacoda-app'** and the Name field with **'parksmap-katacoda'**. 
 
-d) By default, creating a deployment using the Container Image method will also create a Route for your application. A Route makes your application available at a publicly accessible URL.
+This name will be what is used for your application and the various components created that relate to it. 
+
+Leave this as the generated value as steps given in the upcoming sections will use this name.
+
+d) By default, creating a deployment using the Container Image method will also create a Route for your application.
+
+**A Route makes your application available at a publicly accessible URL.**
+
 ![route](images/pic6.png)
-Normally, you would keep this box checked, since it's very convenient to have the Route created for you. For the purposes of learning, un-check the box. We'll learn more about Routes later in the tutorial, and we'll create the Route ourselves then.
+
+Normally, you would keep this box checked, since it's very convenient to have the Route created for you. 
+
+For the purposes of learning, *un-check the box*. We'll learn more about Routes later in the tutorial, and we'll create the Route ourselves then.
 
 e) You are ready to deploy the existing container image. Click the blue Create button at the bottom of the screen. This should bring you back to the Topology view, where you'll see a visual representation of the application you just deployed. As the image deployment progresses, you'll see the ring around the 'parksmap-katacoda' deployment progress from white to light blue to blue.
 ![Application1](images/pic7.png)
