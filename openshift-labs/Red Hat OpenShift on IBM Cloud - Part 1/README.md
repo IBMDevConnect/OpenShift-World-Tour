@@ -1,8 +1,7 @@
 
 # Deploying a front end and backend application on OpenShift 
 
-Learn how to deploy an application (the ParksMap front end) from a pre-existing container image along with learn how to deploy an application direct from source code hosted in a remote Git repository.
-This will be done using the Source-to-Image (S2I) tool.
+Learn how to deploy an application (the ParksMap front end) from a pre-existing container image.
 
 ## Steps
 
@@ -23,12 +22,13 @@ Access the OpeShift Web Console by clicking here.
 ![OCP login page](images/pic1.png)
 
 This will open the web console on your browser.
-Check with your lab instructor to provide you a work environment.
 
 ## 3. Creating a Project
 
 OpenShift is often referred to as a container application platform in that it is a platform designed for the development and deployment of applications in containers.
-To group your application, we use projects. The reason for having a project to contain your application is to allow for controlled access and quotas for developers or teams.
+
+To group your application, we use **projects**. The reason for having a project to contain your application is to allow for controlled access and quotas for developers or teams.
+
 More technically, it's a visualization of the Kubernetes namespace based on the developer access controls.
 
 Click the blue Create Project button.
