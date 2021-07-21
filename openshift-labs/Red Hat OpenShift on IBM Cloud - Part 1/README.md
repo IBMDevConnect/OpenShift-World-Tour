@@ -1,5 +1,5 @@
 
-# Deploying a front end and backend application on OpenShift 
+# Deploying a front end application on OpenShift 
 
 Learn how to deploy an application (the ParksMap front end) from a pre-existing container image.
 
