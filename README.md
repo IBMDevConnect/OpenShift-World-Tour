@@ -10,9 +10,9 @@ The course begins with pre-reads & then followed by a live hands-on lab. It furt
 
 # Topics
 
-1. [Pre-requisite](https://github.com/IBMDevConnect/OpenShift-World-Tour/#1-pre-requisite)
+1. Pre-requisite
 Note: Please complete the below prequisites `before` the hands - on lab session.
-Create an [IBM Cloud](https://ibm.biz/BdfaqQ) account.
+Create an [IBM Cloud](https://ibm.biz/BdfnCa) account.
 2. [Week 1: Red Hat OpenShift on IBM Cloud - Part 1](https://github.com/IBMDevConnect/OpenShift-World-Tour/tree/main/openshift-labs/Red%20Hat%20OpenShift%20on%20IBM%20Cloud%20-%20Part%201)
 3. [Week 2: Red Hat OpenShift on IBM Cloud - Part 2](https://github.com/IBMDevConnect/OpenShift-World-Tour/tree/main/openshift-labs/Red%20Hat%20OpenShift%20on%20IBM%20Cloud%20-%20Part%202)
 4. [Week 3: OpenShift Pipelines - Part 3](https://github.com/IBMDevConnect/OpenShift-World-Tour/tree/main/openshift-labs/OpenShift%20Pipelines%20-%20Part%203)
