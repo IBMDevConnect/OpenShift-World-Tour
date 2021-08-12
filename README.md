@@ -11,7 +11,6 @@ The course begins with pre-reads & then followed by a live hands-on lab. It furt
 # Topics
 
 1. *Pre-requisite*
-
 Note: Please complete the below prequisites `before` the hands - on lab session.
 
 Create an [IBM Cloud](https://ibm.biz/BdfnCa) account.
